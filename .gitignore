@@ -1,0 +1,4 @@
+node_modules
+result.csv
+.idea
+package-lock.json
