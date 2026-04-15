@@ -1,4 +1,4 @@
 node_modules
-result.csv
+result.*
 .idea
 package-lock.json
